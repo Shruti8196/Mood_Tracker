@@ -66,7 +66,7 @@ if st.button("Log Mood"):
 
 # Select Date
 st.subheader("View Mood Counts by Date")
-selected_date = st.date_input("Select date", value=date.today(),format="MM/DD/YYYY")
+selected_date = st.date_input("Select date", value=datetime.now(pytz.utc).astimezone(pst).date(),format="MM/DD/YYYY")
 counts = get_mood_counts_for_date(selected_date)
 
 # If moods were logged in, we can display them
