@@ -1,9 +1,10 @@
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/719fab9b-b0ec-47d4-a70b-0f8eb859db53" alt="Mood Tracker Logo" width="100"/></td>
-    <td style="font-size: 100px;">Mood Tracker</td>
   </tr>
 </table>
+
+# MOOD TRACKER
 
 ## 🔍 Background
 
