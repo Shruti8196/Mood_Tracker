@@ -6,6 +6,10 @@ from collections import Counter
 import plotly.express as px
 import os
 import base64
+import pytz  
+
+# Define PST timezone
+pst = pytz.timezone("America/Los_Angeles")
 
 # Refresh every 10 seconds (10,000 milliseconds), Mood inputs may come from various sources, not just Streamlit note submissions, so the bar chart should reflect all mood updates in real time
 # st_autorefresh(interval=10000, key="refresh")
@@ -30,7 +34,7 @@ worksheet = sh.get_worksheet(0)
 
 # Function to log mood
 def log_mood(mood: str, note: str = ""):
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    timestamp = datetime.now(pytz.utc).astimezone(pst).strftime("%Y-%m-%d %H:%M:%S")
     worksheet.append_row([timestamp, mood, note])
 
 def get_mood_counts_for_date(selected_date):
