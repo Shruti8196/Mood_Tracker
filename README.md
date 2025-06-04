@@ -1,7 +1,9 @@
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/719fab9b-b0ec-47d4-a70b-0f8eb859db53" alt="Mood Tracker Logo" width="70" style="vertical-align: middle;"/>
-  <span style="font-size: 32px; vertical-align: middle;">  Mood_Tracker</span>
-</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/719fab9b-b0ec-47d4-a70b-0f8eb859db53" alt="Mood Tracker Logo" width="50"/></td>
+    <td><h1>Mood_Tracker</h1></td>
+  </tr>
+</table>
 
 ## 🔍 Background
 
