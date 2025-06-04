@@ -7,8 +7,8 @@ import plotly.express as px
 import os
 import base64
 
-#Refresh every 5 seconds (10,000 milliseconds), Mood inputs may come from various sources, not just Streamlit note submissions, so the bar chart should reflect all mood updates in real time
-st_autorefresh(interval=5000, key="refresh")
+# Refresh every 10 seconds (10,000 milliseconds), Mood inputs may come from various sources, not just Streamlit note submissions, so the bar chart should reflect all mood updates in real time
+# st_autorefresh(interval=10000, key="refresh")
 
 # Constants
 SHEET_ID = "1jsjM4WVoMQLNmc8LrtVV7X4ASr8f3952S30yIvNKSAQ"
