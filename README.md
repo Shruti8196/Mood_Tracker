@@ -24,6 +24,6 @@ We want to capture that vibe as it happens. This tool will help support agents l
 4. **Charting:** Plotly
 5. **Deployment:** Streamlit Community Cloud + Github
 
-### Google Sheet: https://docs.google.com/spreadsheets/d/1jsjM4WVoMQLNmc8LrtVV7X4ASr8f3952S30yIvNKSAQ/edit?usp=sharing
-### Streamlit App Link: https://moodtracker-ldxtybx3wiwwduxdqfzcts.streamlit.app/
+### [Link to Google Sheet](https://docs.google.com/spreadsheets/d/1jsjM4WVoMQLNmc8LrtVV7X4ASr8f3952S30yIvNKSAQ/edit?usp=sharing)
+### [Streamlit App Link](https://moodtracker-ldxtybx3wiwwduxdqfzcts.streamlit.app/)
 
