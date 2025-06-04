@@ -9,8 +9,7 @@ We want to capture that vibe as it happens. This tool will help support agents l
 1. Log a Mood: Select a mood (dropdown with emoji button — e.g., 😊 😠 😕 🎉)
 2. (Optional) Add a short note (e.g., “lots of Rx delays today”)
 3. On submit: append the entry (timestamp, mood, note) to a Google Sheet
-4. Visualize the Mood for the selected date.
-5. Every entry log with update the bar chart automatically.
+4. Visualize the Mood distribution for the selected date.
 
 ## Tools Used:
 1. Language: Python
