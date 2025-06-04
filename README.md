@@ -1,4 +1,4 @@
-# Mood_Tracker
+![image](https://github.com/user-attachments/assets/719fab9b-b0ec-47d4-a70b-0f8eb859db53) # Mood_Tracker
 
 ## 🔍 Background
 
