@@ -18,11 +18,11 @@ We want to capture that vibe as it happens. This tool will help support agents l
 4. Visualize the Mood distribution for the selected date.
 
 ## Tools Used:
-1. Language: Python
-2. UI: Streamlit 
-3. Storage: Google Sheets
-4. Charting: Plotly
-5. Deployment: Streamlit Community Cloud + Github
+1. **Language:** Python
+2. **UI:** Streamlit 
+3. **Storage:** Google Sheets
+4. **Charting:** Plotly
+5. **Deployment:** Streamlit Community Cloud + Github
 
 ## Streamlit App Link: https://moodtracker-ldxtybx3wiwwduxdqfzcts.streamlit.app/
 
