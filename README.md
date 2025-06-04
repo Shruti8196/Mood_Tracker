@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/719fab9b-b0ec-47d4-a70b-0f8eb859db53" alt="Mood Tracker Logo" width="50"/></td>
-    <td style="font-size: 40px;">Mood Tracker</td>
+    <td style="font-size: 100px;">Mood Tracker</td>
   </tr>
 </table>
 
